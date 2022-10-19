@@ -1,0 +1,7 @@
+{
+  	"name": "sample",
+  	"displayName": "sample",
+	"expo": {
+	  "jsEngine": "hermes"
+	}
+}
